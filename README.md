@@ -4,8 +4,6 @@ This project creates an e-commerce database and displays it out in JSON format u
 
 After MySQL has been connected and the schema file is sourced, the server is then started up and Insomnia is then used to display the data that falls into the following groups of Category, Product and Tag. The data is then displayed on Insonnia using the GET request. Data can be added using the POST request, edited with the PUT request, or deleted using the DELETE request and those results are then updated using Insomnia.
 
-Note: This project pulled starter code from the coding-boot-camp profile under the repository name of fantastic-umbrella. I made changes to the code inside the models and routes folders. All other code was previously there when I cloned it to my local machine.
-
 There are two videos linked below. One demonstrates connecting to the database and seeding the data. The other video demonstrates, retrieving, updating and displaying the data using Insomnia.
 
 Link to VS Code terminal
